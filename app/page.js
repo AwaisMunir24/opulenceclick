@@ -10,10 +10,10 @@ export default function Home() {
   return (
     <>
       <HeroSlider />
-      <Stats />
       <Services />
       <Process />
       <FeaturedProjects />
+      <Stats />
       <Testimonials />
       <CTA />
     </>
