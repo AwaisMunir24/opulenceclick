@@ -20,7 +20,7 @@ const steps = [
   },
   {
     num: '04',
-    title: 'Reporting & Scale',
+    title: 'Audit & Growth Gap  ',
     desc: 'Monthly reports showing every movement. Rankings up? We double down. We adjust strategy dynamically based on data.',
     duration: 'Monthly',
   },

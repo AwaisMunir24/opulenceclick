@@ -12,7 +12,7 @@ export default function Home() {
       <HeroSlider />
       <Services />
       <Process />
-      <FeaturedProjects />
+      {/* <FeaturedProjects /> */}
       <Stats />
       <Testimonials />
       <CTA />
